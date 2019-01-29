@@ -1,0 +1,17 @@
+Interesting models...
+
+Trapped ARG
+0003.pdb
+0043.pdb
+0044.pdb
+0095.pdb
+
+
+Sheet extension
+0035.pdb
+0050.pdb
+
+Lys trap
+0090.pdb
+0093.pdb
+
